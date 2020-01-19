@@ -28,9 +28,9 @@ This extension is not available in the Chrome store. You have to install it manu
 
 ## Example
 
-![Screenshot from 2020-01-20 00-31-11](https://user-images.githubusercontent.com/29729380/72686602-736f0480-3b1c-11ea-96ec-4cd80db867fe.png)
-![Screenshot from 2020-01-20 00-32-18](https://user-images.githubusercontent.com/29729380/72686603-736f0480-3b1c-11ea-8158-0d2a33b44de7.png)
-![Screenshot from 2020-01-20 00-32-25](https://user-images.githubusercontent.com/29729380/72686604-74079b00-3b1c-11ea-98d1-53a822599b8c.png)
-![Screenshot from 2020-01-20 00-32-30](https://user-images.githubusercontent.com/29729380/72686605-74a03180-3b1c-11ea-9dfe-98d738d88b64.png)
+![1](https://user-images.githubusercontent.com/29729380/72686602-736f0480-3b1c-11ea-96ec-4cd80db867fe.png)
+![2](https://user-images.githubusercontent.com/29729380/72686603-736f0480-3b1c-11ea-8158-0d2a33b44de7.png)
+![3](https://user-images.githubusercontent.com/29729380/72686604-74079b00-3b1c-11ea-98d1-53a822599b8c.png)
+![4](https://user-images.githubusercontent.com/29729380/72686605-74a03180-3b1c-11ea-9dfe-98d738d88b64.png)
 
 
