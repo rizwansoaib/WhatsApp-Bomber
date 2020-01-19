@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Chrome%20-WhatsApp%20Bomber-red)
+
+
 # WhatsApp-Bomber
 Whatsapp Bomber is a chrome extension which send messages multiple times to same contact
 
