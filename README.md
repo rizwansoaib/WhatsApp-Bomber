@@ -1,4 +1,8 @@
 ![](https://img.shields.io/badge/Chrome%20Extension-WhatsApp%20Bomber-orange)
+[![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=WhatsApp-Bomber)](https://github.com/rizwansoaib/WhatsApp-Bomber)
+[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=WhatsApp-Bomber)](http://github.com/rizwansoaib/WhatsApp-Bomber/fork)
+[![HitCount](http://hits.dwyl.io/rizwansoaib/WhatsApp-Bomber.svg)](http://hits.dwyl.io/rizwansoaib/WhatsApp-Bomber)
+
 
 
 # WhatsApp-Bomber
