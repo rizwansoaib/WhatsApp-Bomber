@@ -50,7 +50,7 @@ As of January 2020 WhatsApp-Bomber is Licensed under the GNU Public License v3: 
    This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial code. Use at your own risk.
    
 ## Disclaimer
-  This software is for educational purpose only. Sending Annoying Messages to someone can hurt other person.
+  This software is for educational purpose only. Sending Annoying Messages to someone can hurt to person.
   
   **Don't Send many messages at a time WhatsApp may block your Account**
 
