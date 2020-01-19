@@ -43,7 +43,7 @@ requests </a> are most welcome.
 As of January 2020 WhatsApp-Bomber is Licensed under the GNU Public License v3: [Read License](/LICENSE)
 
 ## Terms and conditions
-* You will NOT use this software for marketing purposes and commercial usage.
+* You will NOT use this software for marketing purposes.
 * We reserve the right to block any user of this repository that does not meet these conditions.
 
 ## Legal
