@@ -19,12 +19,11 @@ This extension is not available in the Chrome store. You have to install it manu
 5. Click 'load unpacked extension'	
 6. **Select the WhatsApp Bomber folder**
 7. The extension should appear at the top of the list
-8. Refresh your WhatsApp web
-9. An red Whatsapp icon should appear at the top of the screen
-10. Open Whatsapp Web you will get popup 
-11. Open Contact chat window and Click WhatsApp Bomber Extension icon 
-12. Enter Your Message and number of time you want send 
-13. Hit start button 
+8. An red Whatsapp icon should appear at the top of the screen
+9. Open Whatsapp Web you will get popup 
+10. Open Contact chat window and Click WhatsApp Bomber Extension icon 
+11. Enter Your Message and number of time you want send 
+12. Hit start button 
 
 ## Example
 
