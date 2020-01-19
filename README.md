@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Chrome%20-WhatsApp%20Bomber-red)
+![](https://img.shields.io/badge/Chrome%20Extension-WhatsApp%20Bomber-orange)
 
 
 # WhatsApp-Bomber
