@@ -59,6 +59,6 @@ As of January 2020 WhatsApp-Bomber is Licensed under the GNU Public License v3: 
 ## <a href="https://www.linkedin.com/in/rizwansoaib/">RIZWAN AHMAD</a>
 rizwan.178208@knit.ac.in
 
-**Feel free to mail me for any queries.
+**Feel free to mail me for any queries.**
 
 
