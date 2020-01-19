@@ -34,8 +34,8 @@ This extension is not available in the Chrome store. You have to install it manu
 
    
 ## Contributions
-<a href="https://github.com/rizwansoaib/whatsapp-monitor/issues"> Issues </a>
-and <a href ="https://github.com/rizwansoaib/whatsapp-monitor/pulls"> Pull
+<a href="https://github.com/rizwansoaib/WhatsApp-Bomber/issues"> Issues </a>
+and <a href ="https://github.com/rizwansoaib/whatsapp-bomber/pulls"> Pull
 requests </a> are most welcome.
    
    
