@@ -32,3 +32,33 @@ This extension is not available in the Chrome store. You have to install it manu
 ![4](https://user-images.githubusercontent.com/29729380/72686605-74a03180-3b1c-11ea-9dfe-98d738d88b64.png)
 
 
+   
+## Contributions
+<a href="https://github.com/rizwansoaib/whatsapp-monitor/issues"> Issues </a>
+and <a href ="https://github.com/rizwansoaib/whatsapp-monitor/pulls"> Pull
+requests </a> are most welcome.
+   
+   
+## License
+As of January 2020 WhatsApp-Bomber is Licensed under the GNU Public License v3: [Read License](/LICENSE)
+
+## Terms and conditions
+* You will NOT use this software for marketing purposes and commercial usage.
+* We reserve the right to block any user of this repository that does not meet these conditions.
+
+## Legal
+   This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial code. Use at your own risk.
+   
+## Disclaimer
+  This software is for educational purpose only. Sending Annoying Messages to someone can hurt other person.
+  
+  **Don't Send many messages at a time WhatsApp may block your Account**
+
+
+## Author:
+## <a href="https://www.linkedin.com/in/rizwansoaib/">RIZWAN AHMAD</a>
+rizwan.178208@knit.ac.in
+
+Fee
+
+
