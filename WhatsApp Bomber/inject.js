@@ -2,7 +2,7 @@
 function start(n,s){
 
 window.InputEvent = window.Event || window.InputEvent;
-var t=document.querySelector("#main > footer > div._2i7Ej._14Mgc.copyable-area > div._13mgZ > div > div._3u328.copyable-text.selectable-text")
+var t=document.getElementsByClassName("_2S1VP copyable-text selectable-text")[1];
 var event = new InputEvent('input', {bubbles: true});
 
 
@@ -10,7 +10,7 @@ for(var i=0;i<n;i++)
 {
 t.textContent=s
 t.dispatchEvent(event);
-document.querySelector("#main > footer > div._2i7Ej._14Mgc.copyable-area > div:nth-child(3) > button > span").click()
+document.querySelector('#main > footer > div._3pkkz.V42si.copyable-area > div:nth-child(3) > button > span').click()
 }
 
 }
